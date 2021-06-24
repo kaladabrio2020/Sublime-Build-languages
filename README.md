@@ -1,7 +1,8 @@
 # Sublime-Build-languages
 
-- Running with cmd of windows 
-- ###For languages :
+[x] Running with cmd of windows 
+
+# For languages :
 <!--ts-->
         * Julia
         * Python
